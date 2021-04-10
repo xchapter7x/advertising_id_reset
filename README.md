@@ -19,5 +19,5 @@
 **requires the atomac library, install as follows**
 
 ```bash
-?> $ sudo easy_install atomac
+?> sudo easy_install atomac
 ```
