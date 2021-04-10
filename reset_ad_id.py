@@ -15,4 +15,3 @@ pref = atomac.getAppRefByLocalizedName('System Preferences')
 win = pref.AXFocusedWindow
 win.findAllR(AXRole='AXButton', AXTitle='Reset Advertising Identifier')[0].Press()
 win.findAllR(AXRole='AXButton', AXTitle='Reset Identifier')[0].Press()
-# win.AXCloseButton.Press()
