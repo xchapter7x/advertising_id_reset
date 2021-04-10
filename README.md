@@ -14,3 +14,10 @@
 ```bash
 ?> watch python reset_ad_id.py
 ```
+
+### dependencies
+**requires the atomac library, install as follows**
+
+```bash
+?> $ sudo easy_install atomac
+```
